@@ -12,6 +12,8 @@ struct ContentView: View {
         List {
             Text("Hello, world!")
             Text("Buddy")
+            Text("3rd List Item!")
+            Text("Another item added in the third commit!")
         }
     }
 }
